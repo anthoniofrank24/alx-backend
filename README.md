@@ -1,0 +1,1 @@
+This directory contains concepts and frameworks that would be useful as a backend developer. It cotains tasks npt covered in the other backend repositories.
